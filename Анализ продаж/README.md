@@ -1,4 +1,10 @@
-## Тестовое задание для тренировки навыков в `Power BI`
+<h1 align="center"> Анализ продаж </h1>
+<h3>Описание проекта:</h3> 
+Тестовое задание для тренировки навыков в Power BI
+ 
+<h3>Стек проекта:</h3>
+
+Среда разработки - `Power BI`. <br>
 
 
 ### [Данные, взятые для анализа](https://docs.google.com/spreadsheets/d/1OObWrvhvYo5_PsLNpYN3ngbgXCMqc112TBvVsPGv9iY/edit#gid=238968913)  <br>
@@ -6,3 +12,5 @@
 ### [Дашборд в формате пдф](https://github.com/Fedor-Kirillow/Other_projects/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6.pdf)  <br>
 
 #### [Скачать результат в формате .pbix](https://github.com/Fedor-Kirillow/Other_projects/raw/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6.pbix)  <br>
+
+<h3>Статус проекта — $\textcolor{green}{\textsf{Завершён.}}$</h3>
